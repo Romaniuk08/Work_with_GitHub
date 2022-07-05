@@ -2,14 +2,33 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
 }
 
-.header_nav,
-h3 {
-    padding: 10px;
+.page_wrap {
+    background-color: rgb(37, 36, 36);
+    min-height: 100vh;
+    color: #fff;
+    padding: 20px;
 }
+
+
+.main_link {
+    color: #fff;
+}
+
+li {}
 
 a:hover {
     text-decoration: none;
     color: blueviolet;
+}
+
+.page_gallery {
+    padding: 20px;
+}
+
+.main_pict {
+    min-width: 100%;
+    min-height: 100vh;
 }
