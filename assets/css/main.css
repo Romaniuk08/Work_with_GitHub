@@ -17,8 +17,6 @@ body {
     color: #fff;
 }
 
-li {}
-
 a:hover {
     text-decoration: none;
     color: blueviolet;
